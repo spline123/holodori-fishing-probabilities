@@ -1,0 +1,1136 @@
+[
+    {
+        "id": "la-park_fishing_fish-0001-description",
+        "data": {
+            "id": "la-park_fishing_fish-0001-description",
+            "text": "『七つ星』の異名を持つ海のファンタジスタ。華奢な姿からは想像できない旨味の爆発が、蒲焼きのタレと絡み合う。今宵、この星を釣り上げた幸運を噛み締めよう！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0001-name",
+        "data": {
+            "id": "la-park_fishing_fish-0001-name",
+            "text": "イワシ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0002-description",
+        "data": {
+            "id": "la-park_fishing_fish-0002-description",
+            "text": "サイズが変われば呼び名も変わる、出世欲旺盛なニクい奴。最大級の『テラアジ』は、ひとたび火を通すと香ばしい脂が食欲を直撃！あなたの胃袋を掴んで離さない。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0002-name",
+        "data": {
+            "id": "la-park_fishing_fish-0002-name",
+            "text": "アジ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0003-description",
+        "data": {
+            "id": "la-park_fishing_fish-0003-description",
+            "text": "その美しく可憐な姿から渚の貴婦人とも呼ばれる。しかし、その姿に似合わぬ鋭い引きが、釣り人の狩猟本能を呼び覚ます。天ぷらにすればサクふわの身が口でとろけて絶品だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0003-name",
+        "data": {
+            "id": "la-park_fishing_fish-0003-name",
+            "text": "キス"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0004-description",
+        "data": {
+            "id": "la-park_fishing_fish-0004-description",
+            "text": "鮮やかに釣り師のエサを盗む、海一番のトリックスター。だがその悔しさも肝醤油に絡めた絶品の刺身を食えば吹き飛ぶはず！エサ泥棒と釣り師の容赦ない知恵比べが勃発中！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0004-name",
+        "data": {
+            "id": "la-park_fishing_fish-0004-name",
+            "text": "カワハギ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0005-description",
+        "data": {
+            "id": "la-park_fishing_fish-0005-description",
+            "text": "プックリとした見た目はまさに癒やし系。しかし素人が包丁を握れば、それが幕引きの晩餐になりかねない！まさに免許皆伝の板前のみがさばく、禁断の美味。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0005-name",
+        "data": {
+            "id": "la-park_fishing_fish-0005-name",
+            "text": "フグ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0006-description",
+        "data": {
+            "id": "la-park_fishing_fish-0006-description",
+            "text": "貝殻を粉砕するほどの衝撃波を放つ海のボクサー。だが、その剛腕から溢れる濃厚な旨味は、塩茹でで真価を発揮！甘く瑞々しく、食通を唸らせる極上の逸品だ。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0006-name",
+        "data": {
+            "id": "la-park_fishing_fish-0006-name",
+            "text": "シャコ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0007-description",
+        "data": {
+            "id": "la-park_fishing_fish-0007-description",
+            "text": "海に住む星形生物。種類によってはつまみとして重宝されており、知る人ぞ知る至高の珍味。その見た目を乗り越えた、食通しか味わえない磯の旨味がある！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0007-name",
+        "data": {
+            "id": "la-park_fishing_fish-0007-name",
+            "text": "ヒトデ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0008-description",
+        "data": {
+            "id": "la-park_fishing_fish-0008-description",
+            "text": "海を飛び出し陸を跳ね回るエンターテイナー。キョロッとした目に大きな口という可愛らしい見た目をしている。ちなみにエラ呼吸だけでなく皮膚呼吸もできる呼吸マスターだ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0008-name",
+        "data": {
+            "id": "la-park_fishing_fish-0008-name",
+            "text": "トビハゼ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0009-description",
+        "data": {
+            "id": "la-park_fishing_fish-0009-description",
+            "text": "優雅に舞う姿は、まさに水族館のアイドル。タコの名を冠するが、実際はリアルクラゲだ。ポン酢と絡み合う絶妙な歯ごたえを想起させるが、こちらはあくまで観賞用！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0009-name",
+        "data": {
+            "id": "la-park_fishing_fish-0009-name",
+            "text": "タコクラゲ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0010-description",
+        "data": {
+            "id": "la-park_fishing_fish-0010-description",
+            "text": "メスからオスへ美しき変貌を遂げる水族館の華。釣り人の餌を盗む手際の良さは一級品だが、煮付け、天ぷらになると上品な甘みが舌を躍らせる。釣れて嬉しい隠れた主役だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0010-name",
+        "data": {
+            "id": "la-park_fishing_fish-0010-name",
+            "text": "ベラ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0011-description",
+        "data": {
+            "id": "la-park_fishing_fish-0011-description",
+            "text": "『春告魚』の名の通り、季節を運ぶ魚。煮汁を吸ったフワフワの身は春の訪れを感じさせ、箸が止まらなくなるだろう。極度の近視というギャップもご愛敬。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0011-name",
+        "data": {
+            "id": "la-park_fishing_fish-0011-name",
+            "text": "メバル"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0012-description",
+        "data": {
+            "id": "la-park_fishing_fish-0012-description",
+            "text": "サンゴの花畑をひらひらと舞う姿は、まさに海の蝶。かつて地域によっては、食用として親しまれていたが、現在は観賞魚として不動の地位を築いている。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0012-name",
+        "data": {
+            "id": "la-park_fishing_fish-0012-name",
+            "text": "チョウチョウウオ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0013-description",
+        "data": {
+            "id": "la-park_fishing_fish-0013-description",
+            "text": "タイの仲間と思われがちだが、キンメダイ科というタイ科とは異なる魚。その黄金の目に心を奪われる前に、煮付けで一杯。ふっくらした身が口の中でとろけるはず！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0013-name",
+        "data": {
+            "id": "la-park_fishing_fish-0013-name",
+            "text": "キンメダイ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0014-description",
+        "data": {
+            "id": "la-park_fishing_fish-0014-description",
+            "text": "サンゴ礁を染める『茜色のハナゴイ』。その眩しい色彩は、水槽という名のステージで真価を発揮する。胃袋ではなく、釣り人の心を鮮やかに満たす南国のアイドルだ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0014-name",
+        "data": {
+            "id": "la-park_fishing_fish-0014-name",
+            "text": "アカネハナゴイ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0015-description",
+        "data": {
+            "id": "la-park_fishing_fish-0015-description",
+            "text": "『海の宝石』と呼ばれるが、正体は変幻自在の軟体動物。不思議な角とカラフルなボディは、まるで異世界のキャラクター！食べられなくても、所有欲を激しくそそる！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0015-name",
+        "data": {
+            "id": "la-park_fishing_fish-0015-name",
+            "text": "ウミウシ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0016-description",
+        "data": {
+            "id": "la-park_fishing_fish-0016-description",
+            "text": "海底を歩き浮袋を鳴らす姿は、まさに海の傾奇者。殿様が愛したことでも知られるが、真骨頂は刺身にあり！噛むほどに溢れる旨味が幸福の絶頂へと連れ去ってくれる！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0016-name",
+        "data": {
+            "id": "la-park_fishing_fish-0016-name",
+            "text": "ホウボウ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0017-description",
+        "data": {
+            "id": "la-park_fishing_fish-0017-description",
+            "text": "言わずと知れた魚界のカリスマが登場。プリっとした刺身の食感、鯛めしの芳醇な香り、どれをとっても主役級の味わいで、めでたい宴を彩ってくれる。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0017-name",
+        "data": {
+            "id": "la-park_fishing_fish-0017-name",
+            "text": "タイ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0018-description",
+        "data": {
+            "id": "la-park_fishing_fish-0018-description",
+            "text": "見た目がおじさんだから……という切ない理由で命名されるが「おじさん舐めんなよ」と言わんばかりに、多くの料理で旨味を発揮する高級魚。偏見を一蹴する実力に拍手！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0018-name",
+        "data": {
+            "id": "la-park_fishing_fish-0018-name",
+            "text": "オジサン"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0019-description",
+        "data": {
+            "id": "la-park_fishing_fish-0019-description",
+            "text": "砂からひょっこり顔を出す愛くるしさが、ファンの心を掴んで離さない。ゆらゆらと可愛らしく踊る姿は、どんな高級魚よりも釣り師たちの心を満たしてくれる。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0019-name",
+        "data": {
+            "id": "la-park_fishing_fish-0019-name",
+            "text": "チンアナゴ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0020-description",
+        "data": {
+            "id": "la-park_fishing_fish-0020-description",
+            "text": "天敵を惑わす渦巻き模様から、成長するとガラッと縞模様へと衣替えする驚異のファッショニスタ。見る者の美的センスを満たしてくれる最高のビジュアル担当だ。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0020-name",
+        "data": {
+            "id": "la-park_fishing_fish-0020-name",
+            "text": "ウズマキヤッコ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0022-description",
+        "data": {
+            "id": "la-park_fishing_fish-0022-description",
+            "text": "鮮やかなオレンジと黒の模様はまさに炎。可愛い顔だが、性格まで血の気が多く縄張り争いは日常茶飯事。燃えるような輝きに、眺めているだけで胸が熱くなる！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0022-name",
+        "data": {
+            "id": "la-park_fishing_fish-0022-name",
+            "text": "フレームエンゼルフィッシュ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0023-description",
+        "data": {
+            "id": "la-park_fishing_fish-0023-description",
+            "text": "亜種と言われていた偽りの日々に別れを告げ、2017年に新種として開眼！観賞用と侮るなかれ、土地によっては唐揚げ、煮付けと重宝される遅れてきた伏兵だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0023-name",
+        "data": {
+            "id": "la-park_fishing_fish-0023-name",
+            "text": "カンザシスズメダイ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0024-description",
+        "data": {
+            "id": "la-park_fishing_fish-0024-description",
+            "text": "不老の伝説を持つ海の長寿王。ガーリックを効かせて派手に焼き上げれば、コクのあるミソとプリプリの身が食べる者の心を鷲掴みに！その旨さは万国共通だ。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0024-name",
+        "data": {
+            "id": "la-park_fishing_fish-0024-name",
+            "text": "ロブスター"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0027-description",
+        "data": {
+            "id": "la-park_fishing_fish-0027-description",
+            "text": "可愛げのあるフォルムが水族館で不動の地位を得る人気者。一部地域では昔から親しまれる食材で、観て癒やされ食べて驚く、二度美味しい深海が生んだ奇跡。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0027-name",
+        "data": {
+            "id": "la-park_fishing_fish-0027-name",
+            "text": "マンボウ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0028-description",
+        "data": {
+            "id": "la-park_fishing_fish-0028-description",
+            "text": "いつかは釣ってみたい憧れの魚。海底を歩いたり、胸ビレを広げて相手をびっくりさせたりと、まるで芸人のようだが、大きなヒレで羽ばたくように泳ぐ姿はとてもカッコいい。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0028-name",
+        "data": {
+            "id": "la-park_fishing_fish-0028-name",
+            "text": "モテホウボウ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0029-description",
+        "data": {
+            "id": "la-park_fishing_fish-0029-description",
+            "text": "いつかは釣ってみたい憧れの魚。非常に脳が発達しており『魚類界の頭脳』であり完璧なずのー。優雅に回遊する姿、その知性溢れる瞳に見つめられれば、誰もが言葉を失うはずだ。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0029-name",
+        "data": {
+            "id": "la-park_fishing_fish-0029-name",
+            "text": "マンタァカデミック"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0030-description",
+        "data": {
+            "id": "la-park_fishing_fish-0030-description",
+            "text": "釣り師たちの憧れで、鮮やかな色を持つゴージャスなエビ。セレブ感ある姿だが、驚くと体を丸めて後ろに跳ぶ『変な動き』は思わず笑みがこぼれる。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0030-name",
+        "data": {
+            "id": "la-park_fishing_fish-0030-name",
+            "text": "可愛伊勢海老"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0034-description",
+        "data": {
+            "id": "la-park_fishing_fish-0034-description",
+            "text": "かつて将軍家が認めたという気高いイメージを持つが、実は過酷な環境で命を繋ぐ庶民派。冬に黄金色に揚げた天ぷらをサクッといけば、高級料理も敵わない贅沢となる！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0034-name",
+        "data": {
+            "id": "la-park_fishing_fish-0034-name",
+            "text": "ワカサギ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0035-description",
+        "data": {
+            "id": "la-park_fishing_fish-0035-description",
+            "text": "『秋の刀』の名を冠する、銀色に輝く回遊魚。軒先の七輪の上で脂がジュワっと弾ける音は、秋の訪れを告げる。刺身でとろけ、焼きで香る庶民の味方だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0035-name",
+        "data": {
+            "id": "la-park_fishing_fish-0035-name",
+            "text": "サンマ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0036-description",
+        "data": {
+            "id": "la-park_fishing_fish-0036-description",
+            "text": "『春告魚』の名を冠する、海のメッセンジャー。黄金の輝きは縁起が良く、春の息吹を感じてならない。甘露煮を蕎麦に乗せれば、長い冬を越えた喜びがわき上がる！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0036-name",
+        "data": {
+            "id": "la-park_fishing_fish-0036-name",
+            "text": "ニシン"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0037-description",
+        "data": {
+            "id": "la-park_fishing_fish-0037-description",
+            "text": "海岸線の青い奇跡、しかし中身は飲酒を促進させる超実力派。定番の沖漬けでも、酢味噌を纏わせても、凝縮された磯の香りが鼻を突き抜け、胃袋を虜に！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0037-name",
+        "data": {
+            "id": "la-park_fishing_fish-0037-name",
+            "text": "ホタルイカ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0038-description",
+        "data": {
+            "id": "la-park_fishing_fish-0038-description",
+            "text": "ハサミを振って求愛ダンスを見せる、海のエンターテイナー。真っ赤に茹であげてもいいが、鍋も捨てがたい！シメの雑炊に溶け出したコクを一滴残らず堪能しよう！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0038-name",
+        "data": {
+            "id": "la-park_fishing_fish-0038-name",
+            "text": "カニ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0039-description",
+        "data": {
+            "id": "la-park_fishing_fish-0039-description",
+            "text": "長寿と魔除けの象徴とされるメデタイ奴。エビチリで辛味を効かせてもよし、天ぷらにしてサクサク感を味わうもよし、一気に平らげて運気を爆アゲしよう！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0039-name",
+        "data": {
+            "id": "la-park_fishing_fish-0039-name",
+            "text": "エビ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0040-description",
+        "data": {
+            "id": "la-park_fishing_fish-0040-description",
+            "text": "黒いトゲの鎧を纏い、海藻を食い尽くすこともある海の大食漢！しかし、海藻で太った中身を白飯に乗せれば、磯の香りと溢れ出す濃厚な甘みがあなたの胃袋を破壊する！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0040-name",
+        "data": {
+            "id": "la-park_fishing_fish-0040-name",
+            "text": "ウニ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0041-description",
+        "data": {
+            "id": "la-park_fishing_fish-0041-description",
+            "text": "グロテスクな見た目と猛毒の棘には怯むが、その下には真っ白な身を隠した高級魚。唐揚げにして骨までバリバリ食べれば、口の中で磯のコクが大爆発する！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0041-name",
+        "data": {
+            "id": "la-park_fishing_fish-0041-name",
+            "text": "オニオコゼ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0042-description",
+        "data": {
+            "id": "la-park_fishing_fish-0042-description",
+            "text": "砂に潜り、獲物を一撃で仕留める生粋の狩人。ハンターらしく引き締まったボディを、薄造りにして紅葉おろしといただけば、あなたの味覚も撃ち抜かれるはず！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0042-name",
+        "data": {
+            "id": "la-park_fishing_fish-0042-name",
+            "text": "ヒラメ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0043-description",
+        "data": {
+            "id": "la-park_fishing_fish-0043-description",
+            "text": "静かな海で砂に隠れ、チャンスをうかがう。その粘り強さが、ギュッとした極上の身を育む。濃厚な煮汁を纏った身は箸を止まらなくさせる、まさに煮付けの王様だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0043-name",
+        "data": {
+            "id": "la-park_fishing_fish-0043-name",
+            "text": "カレイ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0044-description",
+        "data": {
+            "id": "la-park_fishing_fish-0044-description",
+            "text": "凍てつく海で煌めく、生きるクリスタル。無色透明の血を流す姿は、見る者の知的好奇心を大いに揺さぶる。一度釣れば、神秘の虜になること間違いなし！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0044-name",
+        "data": {
+            "id": "la-park_fishing_fish-0044-name",
+            "text": "アイスフィッシュ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0045-description",
+        "data": {
+            "id": "la-park_fishing_fish-0045-description",
+            "text": "『花の魚』という可憐な由来とは裏腹に、岩場で肥え太った奴らを大根おろしで迎え撃てば、白飯が止まらない！まさに北の実力者！居酒屋の超定番メニューだ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0045-name",
+        "data": {
+            "id": "la-park_fishing_fish-0045-name",
+            "text": "ホッケ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0046-description",
+        "data": {
+            "id": "la-park_fishing_fish-0046-description",
+            "text": "見た目は鋭利な日本刀、中身はしっかりと脂の乗った白身のプリンス！パリッと焼き上げてもいいが、バターソテーで洋風に仕上げれば、あなたの舌を鮮やかに一閃する！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0046-name",
+        "data": {
+            "id": "la-park_fishing_fish-0046-name",
+            "text": "タチウオ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0047-description",
+        "data": {
+            "id": "la-park_fishing_fish-0047-description",
+            "text": "ただ潮の流れに身を任せて漂う、生きたガラスアート。水族館のライトアップで光を透過し、ゆらゆらと揺れる美しさは、あなたの心を深く癒してくれるだろう。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0047-name",
+        "data": {
+            "id": "la-park_fishing_fish-0047-name",
+            "text": "ミズクラゲ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0048-description",
+        "data": {
+            "id": "la-park_fishing_fish-0048-description",
+            "text": "キングと言いつつ、『マスノスケ』という侍のような和名を持つ。厚切りでバターと共にステーキにすれば、溢れ出す脂があなたの舌を一刀両断すること間違いなし！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0048-name",
+        "data": {
+            "id": "la-park_fishing_fish-0048-name",
+            "text": "キングサーモン"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0049-description",
+        "data": {
+            "id": "la-park_fishing_fish-0049-description",
+            "text": "地味で大柄だが、『全身トロ』と呼ばれる深海の一斗缶！一切れ口に運べば、濃厚過ぎる脂が口内で大爆発を起こす。ただし、食べ過ぎには注意が必要だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0049-name",
+        "data": {
+            "id": "la-park_fishing_fish-0049-name",
+            "text": "アブラボウズ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0050-description",
+        "data": {
+            "id": "la-park_fishing_fish-0050-description",
+            "text": "ゆらゆらと直立して漂う姿は、水族館でも上位に食い込む人気者。メスから託された命をオスが育み、愛を注ぐ。長きにわたり海のイクメンとして活躍中！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0050-name",
+        "data": {
+            "id": "la-park_fishing_fish-0050-name",
+            "text": "タツノオトシゴ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0051-description",
+        "data": {
+            "id": "la-park_fishing_fish-0051-description",
+            "text": "大きな体で時速100キロを超えることもあるスピード狂！ぶつかったらひとたまりもないが、トロからカマまで余すことなく楽しめる、まさに美食の頂点だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0051-name",
+        "data": {
+            "id": "la-park_fishing_fish-0051-name",
+            "text": "マグロ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0052-description",
+        "data": {
+            "id": "la-park_fishing_fish-0052-description",
+            "text": "深い深い暗黒に生きる平べったい神秘。深海を根城にしているため、光に弱く、非常に繊細な体を持つ。もし、奇跡的に出会えたなら儚い美しさを目に焼き付けよう！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0052-name",
+        "data": {
+            "id": "la-park_fishing_fish-0052-name",
+            "text": "メンダコ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0054-description",
+        "data": {
+            "id": "la-park_fishing_fish-0054-description",
+            "text": "5億年の時を超えて、深海から浮かび上がる生きた化石。悠久の時を乗り越えてきた彼らにとって、人間の歴史なんてあっという間に過ぎないことを痛感させられる。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0054-name",
+        "data": {
+            "id": "la-park_fishing_fish-0054-name",
+            "text": "オウムガイ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0055-description",
+        "data": {
+            "id": "la-park_fishing_fish-0055-description",
+            "text": "縄張りに入ろうものなら、人間だろうと襲い掛かる海のギャング。捕獲も調理もやっかいな奴だが、ひとたび揚げてしまえば、美食体験が待っている高級魚だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0055-name",
+        "data": {
+            "id": "la-park_fishing_fish-0055-name",
+            "text": "ウツボ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0056-description",
+        "data": {
+            "id": "la-park_fishing_fish-0056-description",
+            "text": "その名にふさわしい神々しさを放つ、銀の帯。最大8メートルにも及ぶその巨体は、まさに都市伝説級の美しさ！深海の静寂から現れるレアキャラを見つけよう！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0056-name",
+        "data": {
+            "id": "la-park_fishing_fish-0056-name",
+            "text": "リュウグウノツカイ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0057-description",
+        "data": {
+            "id": "la-park_fishing_fish-0057-description",
+            "text": "漆黒の海域に浮かび上がる18メートルにも及ぶ巨体は神話そのもの。しかし、寿命はたった3年と驚くほどに儚い。運よく見つけたら「お疲れ様！」と優しく声をかけよう！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0057-name",
+        "data": {
+            "id": "la-park_fishing_fish-0057-name",
+            "text": "ダイオウイカ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0060-description",
+        "data": {
+            "id": "la-park_fishing_fish-0060-description",
+            "text": "名前はもちろん、最大7メートルにも及ぶ巨体と大きな口が恐怖を助長する。だが、生態は今なお謎のベールに包まれているため、もし釣り上げたらしかるべき所に連絡だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0060-name",
+        "data": {
+            "id": "la-park_fishing_fish-0060-name",
+            "text": "メガマウス"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0061-description",
+        "data": {
+            "id": "la-park_fishing_fish-0061-description",
+            "text": "釣り師たちの憧れで、その美しい姿はまさに『氷の妖精』だが、実は活発的。呆けている相手には、触手で容赦なくツッコんでくるので注意しよう。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0061-name",
+        "data": {
+            "id": "la-park_fishing_fish-0061-name",
+            "text": "スノーフレークリオネ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0062-description",
+        "data": {
+            "id": "la-park_fishing_fish-0062-description",
+            "text": "いつかは釣ってみたい憧れの魚で、セクシーな唇と可愛らしい柄が特徴的。頭に乗せた海賊帽のような箇所は、外れる、外れないで漁師の間で時折論争を巻き起こす。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0062-name",
+        "data": {
+            "id": "la-park_fishing_fish-0062-name",
+            "text": "セクシーテンヤッコ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0063-description",
+        "data": {
+            "id": "la-park_fishing_fish-0063-description",
+            "text": "いつかは釣ってみたい憧れの魚。ネズミの耳まで付いているが魚であり、キスのような体だがキスの仲間ですらないなど、まさに『混沌』を体現している。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0063-name",
+        "data": {
+            "id": "la-park_fishing_fish-0063-name",
+            "text": "ネズミギステップ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0067-description",
+        "data": {
+            "id": "la-park_fishing_fish-0067-description",
+            "text": "『オオカミ』の異名を持ち、アジだと思って舐めてかかると引きの強さに驚愕する。そんな名勝負の末に手にする勝利の味は、トロにも匹敵する極上の脂だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0067-name",
+        "data": {
+            "id": "la-park_fishing_fish-0067-name",
+            "text": "シマアジ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0068-description",
+        "data": {
+            "id": "la-park_fishing_fish-0068-description",
+            "text": "浮き袋を捨て、スピードに特化した高速の貴公子。荒波で鍛えたその肉体は、西京焼きで真価を発揮。香ばしい香りと共に、あなたもブーストするでしょう！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0068-name",
+        "data": {
+            "id": "la-park_fishing_fish-0068-name",
+            "text": "サワラ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0069-description",
+        "data": {
+            "id": "la-park_fishing_fish-0069-description",
+            "text": "出世魚として荒波を乗り越え、高みへ登りつめたものだけがスズキの称号を手に入れる。刺身、ムニエル、煮付けとなんでもありのラッキーフィッシュだ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0069-name",
+        "data": {
+            "id": "la-park_fishing_fish-0069-name",
+            "text": "スズキ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0070-description",
+        "data": {
+            "id": "la-park_fishing_fish-0070-description",
+            "text": "一瞬で時速40キロの世界へ——。漏斗という器官から放たれる噴射で、海中のスピードスターと化すイカ。透明で美しい刺身の虜となった釣り師たちと今日もレースを繰り広げる。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0070-name",
+        "data": {
+            "id": "la-park_fishing_fish-0070-name",
+            "text": "アオリイカ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0071-description",
+        "data": {
+            "id": "la-park_fishing_fish-0071-description",
+            "text": "南の海を統べるハンター。美味しいと評判だが、地域によっては毒を持つ個体も。この危うさこそ、勇気ある者だけが辿り着ける禁断の美食となる所以！？"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0071-name",
+        "data": {
+            "id": "la-park_fishing_fish-0071-name",
+            "text": "キツネフエフキ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0072-description",
+        "data": {
+            "id": "la-park_fishing_fish-0072-description",
+            "text": "千本の針を纏って敵を退ける戦士。しかし、その鎧の正体は約400本となんとも愛おしいサバ読み。もし見かけたら、野暮なことは言わずに全力で応援しよう！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0072-name",
+        "data": {
+            "id": "la-park_fishing_fish-0072-name",
+            "text": "ハリセンボン"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0073-description",
+        "data": {
+            "id": "la-park_fishing_fish-0073-description",
+            "text": "美しく伸びた角が目印の南国のタペストリー。運気をぐんぐん上げる、幸運をもたらす魚と言われており、観賞魚として支持を集める！飼えば希望に満ち溢れるだろう！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0073-name",
+        "data": {
+            "id": "la-park_fishing_fish-0073-name",
+            "text": "ツノダシ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0074-description",
+        "data": {
+            "id": "la-park_fishing_fish-0074-description",
+            "text": "優雅にヒレを翻し、海に咲く華のようなビジュアルで見る者を魅了する。だが、その美しいヒレには毒針を仕込んでおり、近づいた者に死の抱擁をプレゼントする。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0074-name",
+        "data": {
+            "id": "la-park_fishing_fish-0074-name",
+            "text": "ハナミノカサゴ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0075-description",
+        "data": {
+            "id": "la-park_fishing_fish-0075-description",
+            "text": "独特なシルエットから団扇と呼ばれるが、中身は伊勢海老に並ぶほどの高級甲殻類！贅沢に刺身や味噌汁で食せば、美食の常識を鮮やかに塗り替える！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0075-name",
+        "data": {
+            "id": "la-park_fishing_fish-0075-name",
+            "text": "ウチワエビ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0076-description",
+        "data": {
+            "id": "la-park_fishing_fish-0076-description",
+            "text": "名前の通り黒を纏っていると思いきや、高揚すると白へと変化し、尾びれのピンクも差し色として機能する！まさに黒の名に隠された、変幻自在のファッショニスタ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0076-name",
+        "data": {
+            "id": "la-park_fishing_fish-0076-name",
+            "text": "クロモンガラ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0077-description",
+        "data": {
+            "id": "la-park_fishing_fish-0077-description",
+            "text": "深海から導かれて引き上げられた時、目が飛び出ることからメヌケとも呼ばれる。その身は深海で熟成されており、高級魚として扱われる。釣れない時は高級料亭に飛び込もう！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0077-name",
+        "data": {
+            "id": "la-park_fishing_fish-0077-name",
+            "text": "アコウダイ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0078-description",
+        "data": {
+            "id": "la-park_fishing_fish-0078-description",
+            "text": "引きの強さが釣り師の血に火をつける。各地で異なる名で呼ばれて少し紛らわしいが、味の方は間違いなしの特級品！刺身に寿司と、どれをとっても胃袋にガツンと響く！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0078-name",
+        "data": {
+            "id": "la-park_fishing_fish-0078-name",
+            "text": "カンパチ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0079-description",
+        "data": {
+            "id": "la-park_fishing_fish-0079-description",
+            "text": "藁の炎で炙り、生姜やみょうがをドサッと乗せて頬張れば、江戸っ子が愛した粋が見えてくる！おまけに高タンパク、低脂質、鉄分豊富、疲労回復と厚切りでいくしかない！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0079-name",
+        "data": {
+            "id": "la-park_fishing_fish-0079-name",
+            "text": "カツオ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0080-description",
+        "data": {
+            "id": "la-park_fishing_fish-0080-description",
+            "text": "荒れた冬の海からあがる寒ブリ。熱い出汁に潜らせ、ポン酢でいただくブリしゃぶの破壊力は、まさに規格外！この縁起物を一気に平らげて運気を爆アゲだ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0080-name",
+        "data": {
+            "id": "la-park_fishing_fish-0080-name",
+            "text": "ブリ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0081-description",
+        "data": {
+            "id": "la-park_fishing_fish-0081-description",
+            "text": "長い口先で獲物を吸い込む姿は、トランペットを吹くジャズマンのよう。擬態したり、大型魚に紛れるなど、今日もジャズバーさながら即興演奏を楽しんでいる。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0081-name",
+        "data": {
+            "id": "la-park_fishing_fish-0081-name",
+            "text": "トランペットフィッシュ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0082-description",
+        "data": {
+            "id": "la-park_fishing_fish-0082-description",
+            "text": "暗い岩礁の奥深くに潜む巨影。流通量が少なく幻の高級魚と呼ばれる。フグをも凌駕するその白身はコラーゲンたっぷりで、鍋から雑炊へと味覚の常識を根底から覆す！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0082-name",
+        "data": {
+            "id": "la-park_fishing_fish-0082-name",
+            "text": "クエ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0083-description",
+        "data": {
+            "id": "la-park_fishing_fish-0083-description",
+            "text": "『深海の掃除屋』という二つ名を持つ、外見は巨大なダンゴムシ。5年近く絶食したという記録があり、省エネライフを送ることも。見つけたら、その悟りを開いた姿を拝ませてもらおう！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0083-name",
+        "data": {
+            "id": "la-park_fishing_fish-0083-name",
+            "text": "ダイオウグソクムシ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0085-description",
+        "data": {
+            "id": "la-park_fishing_fish-0085-description",
+            "text": "大型魚に寄り添い、おこぼれに預かるほか、名前までサメの名を借りたアジ目。刺身でも焼いても脂の乗った極上の旨味が溢れ出すと、一部の釣り人には人気の逸品！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0085-name",
+        "data": {
+            "id": "la-park_fishing_fish-0085-name",
+            "text": "コバンザメ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0086-description",
+        "data": {
+            "id": "la-park_fishing_fish-0086-description",
+            "text": "魚類と爬虫類に分かれ、魚類の一部は食用可。爬虫類も一部地域では高級な薬膳料理として食されるが、毒を持つため注意が必要！まさに海中に潜む禁断の果実だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0086-name",
+        "data": {
+            "id": "la-park_fishing_fish-0086-name",
+            "text": "ウミヘビ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0088-description",
+        "data": {
+            "id": "la-park_fishing_fish-0088-description",
+            "text": "約2メートルの巨体で時速50キロを誇る海中のロケット。海中で出会えば人間にも冷徹な眼差しで構え、おまけに毒のリスクもあり……こいつはスリルしかない！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0088-name",
+        "data": {
+            "id": "la-park_fishing_fish-0088-name",
+            "text": "バラクーダ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0089-description",
+        "data": {
+            "id": "la-park_fishing_fish-0089-description",
+            "text": "巨大なマントを翻し、広大な海を自由に舞うエイ。一部地域では食されることもあり、特に両翼のヒレが好まれ、唐揚げにすると鶏肉に近い食感とのこと。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0089-name",
+        "data": {
+            "id": "la-park_fishing_fish-0089-name",
+            "text": "マンタ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0091-description",
+        "data": {
+            "id": "la-park_fishing_fish-0091-description",
+            "text": "独特すぎるハンマー型の頭が可愛く見られがちだが、実は高性能。海中に潜む鼓動、微弱な電流をも感じ取る。さらに唐揚げ、フライ、かまぼこまで、食においても高性能だ！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0091-name",
+        "data": {
+            "id": "la-park_fishing_fish-0091-name",
+            "text": "シュモクザメ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0093-description",
+        "data": {
+            "id": "la-park_fishing_fish-0093-description",
+            "text": "最大全長20メートルに達する、世界最大の魚。１匹ずつ異なる唯一無二の甚平模様が特徴。小魚の群れを率いて悠々と泳ぐ姿は、まさに『海の王』と呼ぶに相応しい。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0093-name",
+        "data": {
+            "id": "la-park_fishing_fish-0093-name",
+            "text": "ジンベエザメ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0094-description",
+        "data": {
+            "id": "la-park_fishing_fish-0094-description",
+            "text": "いつかは釣ってみたい憧れの魚。ムラサメモンガラに似ているが、ヤンチャっぷりはそれ以上。愛嬌いっぱいにちょっかいをかける、憎めないクソガキ。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0094-name",
+        "data": {
+            "id": "la-park_fishing_fish-0094-name",
+            "text": "ストームラサメモンガラ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0095-description",
+        "data": {
+            "id": "la-park_fishing_fish-0095-description",
+            "text": "一帯の釣り師たちの憧れで、手裏剣のようなマークを持つカニ。特徴は握力50キロを超える自慢のハサミで、ギュッと挟む姿から海のゴリラとして恐れられている。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0095-name",
+        "data": {
+            "id": "la-park_fishing_fish-0095-name",
+            "text": "ノコギリガザエンジェル"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0096-description",
+        "data": {
+            "id": "la-park_fishing_fish-0096-description",
+            "text": "釣り師たちが憧れる魚。ピエロ帽のような派手な頭が特徴的。普段は砂底や石に擬態して潜んでおり、時々『おるよ～！』と急に顔を出してダイバーたちを和ませている。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0096-name",
+        "data": {
+            "id": "la-park_fishing_fish-0096-name",
+            "text": "ピエロカエルアンコォルカ"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-item-facility-area_a03-002-1-description",
+        "data": {
+            "id": "la-park_fishing_fish-item-facility-area_a03-002-1-description",
+            "text": "漂流金属"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-item-facility-area_a03-002-1-name",
+        "data": {
+            "id": "la-park_fishing_fish-item-facility-area_a03-002-1-name",
+            "text": "漂流金属"
+        }
+    }
+]
